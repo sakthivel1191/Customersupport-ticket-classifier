@@ -25,3 +25,14 @@ Logs
 Large DistilBERT model and training checkpoints
 
 models/distilbert_category/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.ipynb_checkpoints/
+.vscode/
+*.log
+models/distilbert_category/
