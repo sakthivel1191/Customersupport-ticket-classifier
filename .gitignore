@@ -1,0 +1,27 @@
+Python virtual environments
+
+.venv/ venv/ env/
+
+Python cache
+
+pycache/ *.py[cod]
+
+Environment variables and secrets
+
+.env .env.*
+
+Jupyter checkpoints
+
+.ipynb_checkpoints/
+
+IDE files
+
+.vscode/
+
+Logs
+
+*.log
+
+Large DistilBERT model and training checkpoints
+
+models/distilbert_category/
